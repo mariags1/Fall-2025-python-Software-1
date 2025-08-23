@@ -5,11 +5,6 @@
 #Store the greeting in a variable called 'greeting'
 
 
-
-
-
-
-
 name = input("Give name: ")
 greeting = ("Hello, " + name + "!")
 
