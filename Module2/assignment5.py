@@ -17,9 +17,9 @@ talents_str = input("Enter talents: ")
 pounds_str = input("Enter pounds: ")
 lots_str = input("Enter lots: ")
 
-talents = int(talents_str)
-pounds = int(pounds_str)
-lots = int(lots_str)
+talents = float(talents_str)
+pounds = float(pounds_str)
+lots = float(lots_str)
 
 #Convert talents -> pounds -> lots -> grams
 
