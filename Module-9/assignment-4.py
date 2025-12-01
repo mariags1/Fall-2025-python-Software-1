@@ -7,8 +7,6 @@ race() function:
 5. Return a list of cars sorted by travelled distance (highest distance first)
 """""
 import random
-
-
 class Car:
     def __init__(self, license_plate, maximum_speed):
         self.license_plate = license_plate
